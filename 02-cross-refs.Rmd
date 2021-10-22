@@ -9,3 +9,8 @@ Pero este crecimiento no quiere decir que el sistema financiero se ha expandido,
 Para perpetuar dichas condiciones, el sistema ha estrechado los  vínculos  con el gobierno, que le permite  el  control  del  mercado, financiando las  campañas  políticas  con  mayor  posibilidad  de  ganar, para después cobrar  dividendos  con  leyes  que  cambian  la  regulación,  por  ejemplo la  Ley  795  de  2003, que modificó  las  normas  aplicadas  al  capital, establecidas en Ley 510 de 1999 (Guerrero, 2017)
 
 Por otra parte, la población, víctima acostumbrada de la concentración de poderes y la desigualdad, ha visto como el desempleo en Colombia en el período 2001-2018, registró la tasa promedio (11.1%) más alta entre las principales cinco economías de América Latina (Argentina, Brasil, Chile, Colombia y México), incluso superando el promedio de América Latina por más de 3.6 puntos porcentuales  (Ramos & Álvarez García, 2020). Para 2020, las cifras aumentaron significativamente en el mundo y en la región, no obstante, Colombia sigue como líder con una tasa promedio de 15.9% para 2020, mientras que países como Brasil y Chile presentaron cifras de 13.5% y 10.2% respectivamente (Revista Semana, 2021).   
+   
+
+```{r, out.width= "100%", out.height= "30%", echo=FALSE}
+knitr::include_graphics("imagenes/Granja1.png")
+```

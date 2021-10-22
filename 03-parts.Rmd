@@ -1,5 +1,7 @@
 # LA TECNOLOGÍA SOCIAL, UNA NUEVA ESPERANZA
 
+NA NUEVA ESPERANZA
+
 Tradicionalmente la adquisición de acciones, la compra y venta de divisas, y el acceso a portafolios de inversión, estaban restringidos a personas y empresas con grandes capitales, que utilizaban estos medios para concentrar y acrecentar mucho más su riqueza. 
 
 Una persona que quisiera ahorrar alguna fracción de sus ingresos, para lograr objetivos como la compra de una vivienda, un vehículo, pagar estudios superiores, o simplemente hacer realidad ese viaje soñado, se tenía que resignar con abrir una cuenta de ahorros, un título de ahorro, abrir un Certificado de Depósito a Término – CDT, o delegar el manejo de su capital en un Fondo de Cesantías.
@@ -9,3 +11,8 @@ Pero todas estas opciones tienen un denominador común; una utilidad excesivamen
 El desarrollo tecnológico y el crecimiento de la conectividad y la capacidad de innovación, han permitido un nivel de comunicación e interacción social sin precedentes, el acceso al conocimiento, y la adquisición de innumerables productos y servicios. Adicionalmente, desde hace aproximadamente una década ha permitido el acceso a nuevos servicios bancarios y de pagos, así como la creación de nuevos ecosistemas colaborativos que abren un nuevo horizonte de servicios financieros innovadores y mucho más participativos (Rodríguez Fernández, 2017).
 
 A este nuevo sector se le llama Fintech, y se caracteriza por la prestación de servicios financieros soportados a través de plataformas tecnológicas (finance - technology) y la presencia de una gran diversidad de operadores que favorecen la competencia y permiten disminuir considerablemente el margen de intermediación, en beneficio del cliente. Estas empresas son parte de la transformación digital, y permiten ofrecer un nuevo abanico de opciones y servicios financieros mediante la adopción de las  nuevas  herramientas digitales,  el  uso  de  la  inteligencia  artificial,  la  gestión  de  datos,  o  el desarrollo de criptomonedas (Rodríguez Fernández, 2017).
+
+
+```{r, out.width= "100%", out.height= "30%", echo=FALSE}
+knitr::include_graphics("imagenes/Granja1.png")
+```

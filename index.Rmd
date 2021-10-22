@@ -18,3 +18,8 @@ knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
 ), 'packages.bib')
 ```
+
+```{r, out.width= "100%", out.height= "100%", echo=FALSE}
+knitr::include_graphics("imagenes/Granja.png")
+```
+

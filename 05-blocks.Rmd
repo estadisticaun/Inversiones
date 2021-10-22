@@ -4,8 +4,11 @@ Aunque el modelo crowdfunding en la modalidad de donación ya tenía algunos act
 
 En el año 2020, se expidió el Decreto 1235, que tiene como principal fin, introducir cambios que motiven el movimiento del mercado, como el registro de las operaciones de los títulos valores, la posibilidad que la plataforma preste servicios de cobranza y que pueda ofrecer más de un objeto, es decir, los servicios de crowdfunding financiero y por donación, lo cual permite visibilidad de ciertos modelos de negocio, por ejemplo, compañías de beneficio e interés colectivo (BIC) que han venido adquiriendo un lugar en las preferencias de los empresarios.   
 
-No obstante, el cambio más relevante, y que se toma con gran expectativa en el mercado, es que el Decreto 1235 autoriza aumentar los montos de inversión, lo cual, abre nuevas alternativas frente a la envergadura de los posibles tipos de negocio que se creen, y representa una ventaja que permite a mercados con inversiones iniciales de altos montos, como, por ejemplo, el inmobiliario, pensar en la postulación en estas plataformas como forma de capitalización (Ospina Díaz, 2020).
+No obstante, el cambio más relevante, y que se toma con gran expectativa en el mercado, es que el Decreto 1235 autoriza aumentar los montos de inversión, lo cual, abre nuevas alternativas frente a la envergadura de los posibles tipos de negocio que se creen, y representa una ventaja que permite a mercados con inversiones iniciales de altos montos, como, por ejemplo, el inmobiliario, pensar en la postulación en estas plataformas como forma de capitalización (@Ospina2020Colombia).
 
 En la actualidad existen pocas empresas que ofrecen el modelo de financiación colaborativa en Colombia, no obstante, el potencial de este nuevo mercado muy seguramente permitirá su crecimiento exponencial.  
 
 
+```{r, out.width= "100%", out.height= "30%", echo=FALSE}
+knitr::include_graphics("imagenes/Granja1.png")
+```
