@@ -13,7 +13,7 @@ La política neoliberal que desde ese entonces gobierna el país, lanzó a nuest
 Como resultado, se tiene un país de vocación rural con una industria agrícola destruida, que se posiciona como el mayor importador de productos alimenticios y agropecuarios de América Latina (@SAC2019Agricultores), en donde el 42.5% de la población total se encuentra en situación de pobreza (@Republica2021millones).   
 
 ```{r, out.width= "100%", out.height= "30%", echo=FALSE}
-knitr::include_graphics("imagenes/Granja1.png")
+knitr::include_graphics("imagenes/Back.png")
 ```
 
 

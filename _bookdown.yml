@@ -5,6 +5,6 @@ language:
     fig: "Figura "
     tab: "Tabla "
   ui:
-    chapter_name: "Capítulo "
+    chapter_name: "CAPÍTULO "
 output_dir: "docs"
 
