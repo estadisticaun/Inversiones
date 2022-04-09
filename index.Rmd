@@ -1,5 +1,5 @@
 --- 
-title: "LA SOLUCIÓN DEFINITIVA PARA OBTENER UTILIDADES COMO LOS GRANDES INVERSIONISTAS"
+title: "Los 5 Puntos Para Generar Rentabilidades en Bienes Raíces Como los Grandes Inversionistas"
 author: "Granja de Inversiones"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
